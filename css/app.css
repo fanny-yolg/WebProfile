@@ -3,7 +3,7 @@
 }
    
 body {
-    font-family: 'Sedan', sans-serif;
+    font-family: 'Roboto Slab', sans-serif;
 
     height: 100vh;
     margin: 0;
@@ -137,8 +137,8 @@ main #content #skill .skill-container .skill-card .logo-card img {
 
 }
 
-.mySlides1, .mySlides2 {display: none}
-main #content #project .slideshow-container .mySlides1 img, main #content #project .slideshow-container .mySlides2 img {
+.mySlides1, .mySlides2, .mySlides3 {display: none}
+main #content #project .slideshow-container .mySlides1 img, main #content #project .slideshow-container .mySlides2 img, main #content #project .slideshow-container .mySlides3 img {
     vertical-align: middle;
     width: 100%;
 }
