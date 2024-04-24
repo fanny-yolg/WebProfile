@@ -209,7 +209,7 @@ footer {
     }
 
     main aside {
-        align-self: stretch;
+        align-self: center;
     }
 
     .prev, .next {
